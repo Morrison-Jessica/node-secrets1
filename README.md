@@ -12,6 +12,3 @@ node app.js
 ```
 
 The application prints `Application started successfully. Secret is available.`
-The secret is fake and
-intentionally visible in the source code for this assignment. Real secrets
-should not be hard-coded or committed to GitHub.
